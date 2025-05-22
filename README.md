@@ -1,6 +1,6 @@
 Overview
 
-A simple voice-powered Virtual Assistant made by using python. It can perform simple tasks such as:
+A simple voice-powered Virtual Assistant made by using python and NLP techniques like speech recognition and speech synthesis. It can perform simple tasks such as:
 Web searches
 Playing YouTube Videos
 Telling Jokes
